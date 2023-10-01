@@ -28,3 +28,4 @@ namespace Tyuiu.TolmachevVVnew.Sprint0.Task5.Test
             Assert.AreEqual(20, DataService.Division(100, 5));
         }
     }
+}
